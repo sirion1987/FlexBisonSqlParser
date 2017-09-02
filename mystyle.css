@@ -1,0 +1,19 @@
+a{
+    font: 13px Georgia, "Times New Roman",Times, serif;
+}
+
+a.column_ref{
+  background-color: #ffee00  
+}
+a.table{
+  background-color: #99cc00
+}
+a.column{
+  
+}
+a.cursor{
+  
+}
+a.token{
+  background-color: #ffbb44 
+}
